@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Практикуемся с Git</title>
+        <link href="css/styles.css" rel="stylesheet">
+    </head>
+    <body>
+        <h1 class="title">Практикуемся с Git</h1>
+<<<<<<< HEAD
+        <p class="quote">
+=======
+        <p class="description">
+>>>>>>> conflict/merge-editor
+            Параграф на моем сайте
+        </p>
+        <a href="pages/about.html">
+            Перейти на страницу „О курсе“
+        </a>
+    </body>
+</html>
